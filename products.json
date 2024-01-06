@@ -1,0 +1,32 @@
+[
+    {
+        "img": "images/9.jpg",
+        "title": "Fresh Coffee",
+        "price": "$15.99 "
+    },
+    {
+        "img": "images/6.jpg",
+        "title": "Fresh Tea",
+        "price": "$19.84 "
+    },
+    {
+        "img": "images/8.jpg",
+        "title": "Fresh Coffee",
+        "price": "$15.99 "
+    },
+    {
+        "img": "images/8.jpg",
+        "title": "Coffee",
+        "price": "$15.99 "
+    },
+    {
+        "img": "images/8.jpg",
+        "title": "Tea",
+        "price": "$15.99 "
+    },
+    {
+        "img": "images/8.jpg",
+        "title": "Fresh Milk",
+        "price": "$15.99 "
+    }
+]
